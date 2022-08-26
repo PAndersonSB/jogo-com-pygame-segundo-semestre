@@ -1,0 +1,17 @@
+o jogo funciona usando apenas o teclado numerico
+
+tela inicial temos 3 opções:
+
+botão 0 começa a rodada com animação do numero sorteado e animação da peça se movendo
+botão 1 para o jogo e salva em arquivo para que você possa continuar ele depois
+botão 2 é o ranking (aperte 0 para sair do ranking)
+botão 3 é a tela de escolha de icone
+
+na tela de icone
+
+primeiramente vc escolhe o jogador 1/2/3/4
+depois escolhe um dos emotes de 1-9 
+nessa tela dos emotes de 1-9 você pode apertar 0 e vai aparecer mais 9 opções 
+
+depois de escolher o icone ele volta a tela em que vc seleciona o jogador
+aperte 0 para sair do loop
